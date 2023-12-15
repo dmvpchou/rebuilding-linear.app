@@ -5,6 +5,7 @@ import { ChevronIcon } from "../icons/chevron";
 
 export const HomepageHero = () => (
   <Hero>
+    /*
     <Button
       className="translate-y-[-1rem] animate-fade-in opacity-0"
       href="/"
@@ -14,9 +15,10 @@ export const HomepageHero = () => (
       <span>Linear 2022 Release – Built for scale</span>{" "}
       <Highlight>→</Highlight>
     </Button>
+    */
     <HeroTitle className="translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:200ms]">
-      Linear is a better way
-      <br className="hidden md:block" /> to build products
+      All about coffee
+      <br className="hidden md:block" /> 光影珈琲
     </HeroTitle>
     <HeroSubtitle className="translate-y-[-1rem] animate-fade-in opacity-0 [--animation-delay:400ms]">
       Meet the new standard for modern software development.
