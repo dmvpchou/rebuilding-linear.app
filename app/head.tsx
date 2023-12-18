@@ -4,7 +4,7 @@ export default function Head() {
       <title>Rebuilding Linear.app</title>
       <meta
         name="description"
-        content="Rebuilding Linear.app's website with Next.js, Tailwind."
+        content="光影珈琲"
       />
       <meta name="robots" content="noindex" />
     </>
